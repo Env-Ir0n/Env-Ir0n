@@ -107,4 +107,7 @@ a8HjrY/BmdKEcttYP73kvCfrAQvPMoCf8Ir4FNyUPphhU4rA6eb8wqx7HdXGr5WA
 ylXa61/YmZk252W9exSi1dCrf90ldeMMM5moxMmfpeBsmfFohtqPxh7GOH/k3ngN
 h12OAFV65Q==
 =s26v
------END PGP PUBLIC KEY BLOCK-----    
+-----END PGP PUBLIC KEY BLOCK-----
+
+#### p.s
+find a list of guesses around who i am at https://github.com/Env-Ir0n/Env-Ir0n
