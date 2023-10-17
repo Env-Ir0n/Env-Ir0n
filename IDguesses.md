@@ -11,4 +11,4 @@ Ha I wish i had his skillset (and cash)
 ## Random people
 
 ### Noel C Simpson
-I need to do some research on this guy lol
+Noel C Simpson is the CEO of Lexel, a NZ ICT firm
